@@ -7,3 +7,6 @@
 git check out : 현재 브랜치에서 [브랜치명]으로 이동하기.
 git pull : 원격장소로부터 로컬저장소를 동기화하고 머지하기.
 git fetch : 원격장소로부터 로컬저장소를 동기화하고 머지하지 않기.
+git remote : 원격저장소명 출력하기.
+git branch -d : 브랜치명 삭제하기.
+git branch -D : 브랜드명 강제 삭제하기.
