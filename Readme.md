@@ -10,3 +10,6 @@
 8. git remote : 원격저장소명 출력하기. 
 9. git branch -d : 브랜치명 삭제하기.
 10. git branch -D : 브랜드명 강제 삭제하기.
+
+
+ps. 성환이는 바보다
