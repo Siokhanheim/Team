@@ -12,8 +12,8 @@
 10. git branch -D : 브랜드명 강제 삭제하기.
 11. git status : 파일 상태 확인.
 12. git  clone : 로컬 저장소 복제.
-12. git remote add origin : 클라우드 주소 등록 및 발행.
-
+13. git remote add origin : 클라우드 주소 등록 및 발행.
+14. git log : 현재 위치한 브랜치 커밋 내용 확인 및 식별자 부여됨.
 
 
 ## Seohyun's question
