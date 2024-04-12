@@ -10,6 +10,10 @@
 8. git remote : 원격저장소명 출력하기. 
 9. git branch -d : 브랜치명 삭제하기.
 10. git branch -D : 브랜드명 강제 삭제하기.
+11. git status : 파일 상태 확인.
+12. git  clone : 로컬 저장소 복제.
+12. git remote add origin : 클라우드 주소 등록 및 발행.
+
 
 
 ## Seohyun's question
